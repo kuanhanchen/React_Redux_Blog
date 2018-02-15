@@ -8,12 +8,9 @@ In show page, it'll show just a single post in the middle.
 
 In creating page, the user can enter a title, categories, and contents for the blog post. Once they click the Save button, it will save the record to a backend server and then it will navigate them back to the index page. Users can also click cancel button and go back to index page as well.
 
-
 Using reduxblog.herokuapp.com as the backend server API.
 
-Using react-sparklines package to add charts.
-
-Using Google Maps Integration. inside componentDidMount().
+Fetching a list of posts inside componentDidMount().
 
 ### Getting Started
 
