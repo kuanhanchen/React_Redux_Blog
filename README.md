@@ -14,6 +14,8 @@ Fetching a list of posts inside componentDidMount().
 
 Implementing React Router to navigate Create Page, Post List Page and Post Detail Page.
 
+Using Link tag to navigate different components.
+
 Using redux-form library to handle any type of form with redux, to validate the input, and then to submit the form.
 
 ### Getting Started
