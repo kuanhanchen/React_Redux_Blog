@@ -12,6 +12,10 @@ Using reduxblog.herokuapp.com as the backend server API.
 
 Fetching a list of posts inside componentDidMount().
 
+Implementing React Router to navigate Create Page, Post List Page and Post Detail Page.
+
+Using redux-form library to handle any type of form with redux, to validate the input, and then to submit the form.
+
 ### Getting Started
 
 There are two methods for getting started with this repo.
