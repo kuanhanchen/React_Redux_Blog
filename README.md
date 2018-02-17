@@ -18,6 +18,8 @@ Using Link tag to navigate different components.
 
 Using redux-form library to handle any type of form with redux, to validate the input, and then to submit the form.
 
+Using promise to ensure we navigate back to list of posts after creating a post successfully.
+
 ### Getting Started
 
 There are two methods for getting started with this repo.
