@@ -20,6 +20,12 @@ Using redux-form library to handle any type of form with redux, to validate the 
 
 Using promise to ensure we navigate back to list of posts after creating a post successfully.
 
+In index.js, we use react-router-dom, in particular the BrowserRouter, Route, and Switch components to give our application the aspect of the idea of navigation. We created separated routes for each invidual component and we tie each of those components to a particular path. Whenever a user navigates to one of these paths, it will show particular component. So we don't change HTML documents, we just hide and show different sets of React components.
+
+We use ownProps system with mapStateToProps.
+
+We use lodash mapKeys() to treat our state object as an object rather than an array. With an object, we can look up records easily and faster.
+
 ### Getting Started
 
 There are two methods for getting started with this repo.
